@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        // Репозиторий ForgeGradle
+        maven {
+            url = uri("https://maven.minecraftforge.net")
+        }
+        // Портал плагинов Gradle
+        gradlePluginPortal()
+        // Центральный Maven
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    repositories {
+        // Чтобы загрузить Minecraft, mappings и библиотеки Forge
+        maven {
+            url = uri("https://maven.minecraftforge.net")
+        }
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'itemremover'

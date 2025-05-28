@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: itemremover
+Specification-Vendor: example
+Implementation-Title: itemremover
+Implementation-Version: 1.0
+Implementation-Vendor: example
+

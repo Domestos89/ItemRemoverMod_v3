@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="itemremover"
+version="1.0"
+displayName="Item Remover Mod"
+description='''Removes specific IC3 items from registry'''
